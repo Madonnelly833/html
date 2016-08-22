@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello!</title>
+  </head>
+  <body>
+    <h2>Welcome to the page that does nothing really</h2>
+    <hr>
+    <img src="https://media.giphy.com/media/sUNqplVFtsctW/giphy.gif" />
+    <p>This is full of nothing but things I changed slightly to show I know what I'm doing. </p>
+    <p>It it quite obvious this is not the case.</p>
+    <p>My fiancee wanted me to watch Galavant and I found it meh.</p>
+
+    <ul>
+      <li>I would rather go bowling</li>
+      <li>I'm kind of hungry</li>
+      <li>Traffic is going to suck</li>
+      <li>We have several more weeks of this</li></ul>
+    </ul>
+    <p>There is only so many things I can put in a fake webpage.</p>
+    <br><br>
+    <a href="http://www.homestarrunner.com/" target="new">Check out this cool website!</a>
+  </body>
+</html>
